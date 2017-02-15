@@ -1,10 +1,7 @@
-das ist ein Test!\
-1
-2
-3
-4
-5
-6
-7
-8
-9
+#include <iostream>
+using namespace std;
+
+int main(int argc, char** argv) {
+ 	cout << "Hallo Benno" << endl;
+  	return 0;
+}
