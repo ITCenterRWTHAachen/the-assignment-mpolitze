@@ -3,3 +3,5 @@ public class Eunis {
 		System.out.println("See you in Paris!");
 	}
 }
+
+Hallo Bernd
