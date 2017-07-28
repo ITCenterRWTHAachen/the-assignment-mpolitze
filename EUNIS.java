@@ -1,7 +1,5 @@
-public class Eunis {
+public class TEA {
 	public static void main(String[] args) {
-		System.out.println("See you in Paris!");
+		System.out.println("TEA Conference");
 	}
 }
-
-Hallo Bernd
